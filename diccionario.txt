@@ -1,0 +1,7 @@
+carro:car
+feliz:happy
+comprar:buy
+musica:music
+rojo:red
+casa:house
+h:h

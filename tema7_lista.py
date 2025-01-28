@@ -22,5 +22,6 @@ lista1.pop()
 print(lista1)
 
 print(lista2)
+# ordena los elemtos de la lista
 lista2.sort()
 print(lista2)
